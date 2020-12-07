@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=hi%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=hi&fontSize=50)
 
 <!--
 **hee-naa/hee-naa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
